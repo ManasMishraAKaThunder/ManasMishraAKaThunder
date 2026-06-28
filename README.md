@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full-Stack Developer passionate about building secure, scalable, and user-centric applications. With a strong foundation in Java and Spring Boot, I'm currently learning Node.js, TypeScript, and advanced React to broaden my backend and frontend expertise. My tech stack includes Java, Spring Boot, React, JavaScript, TypeScript, Tailwind CSS, REST APIs, MySQL, Git, GitHub, and Swagger. I enjoy solving challenging problems, contributing to open-source projects, and continuously learning modern technologies to become a better software engineer.
+I'm a Full-Stack Developer passionate about building secure, scalable, and user-centric applications. With a strong foundation in Java and Spring Boot, I'm currently learning Node.js, TypeScript, and advanced React to broaden my backend and frontend expertise. My tech stack includes Java, Spring Boot, React, JavaScript, TypeScript, Tailwind CSS, REST APIs, MySQL, Git, GitHub, and Swagger. I enjoy solving challenging problems, contributing to open-source projects, and continuously learning modern technologies to become a better software engineer
 
 
 ## 🌐 Socials:
