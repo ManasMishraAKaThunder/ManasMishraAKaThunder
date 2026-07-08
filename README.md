@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full-Stack Software Engineer focused on building secure, scalable, and user-centric applications. My primary expertise is in Java and Spring Boot for backend development, complemented by experience with React and modern web technologies for building responsive, high-performance user interfaces.
+I'm a Full-Stack Software Engineer(backend focused) focused on building secure, scalable, and user-centric applications. My primary expertise is in Java and Spring Boot for backend development, complemented by experience with React and modern web technologies for building responsive, high-performance user interfaces.
 
 My technical stack includes Java, Spring Boot, Node.js, Express.js, React, JavaScript, TypeScript, Tailwind CSS, REST APIs, MySQL, MongoDB, Git, GitHub, Swagger, and Docker. I enjoy designing clean architectures, developing reliable APIs, optimizing application performance, and writing maintainable, production-ready code.
 
