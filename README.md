@@ -3,6 +3,7 @@ I'm a Full-Stack Software Engineer(backend focused) focused on building secure, 
 
 My technical stack includes Java, Spring Boot, Node.js, Express.js, React, JavaScript, TypeScript, Tailwind CSS, REST APIs, MySQL, MongoDB, Git, GitHub, Swagger, and Docker. I enjoy designing clean architectures, developing reliable APIs, optimizing application performance, and writing maintainable, production-ready code.
 
+Currently working on a startup Named As Xvertere 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_manasmishra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manas-mishra-aa29a2381) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ManasMi86815107) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devmanasmishra@gmail.com) 
